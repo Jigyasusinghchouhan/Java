@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="misc">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.org.jruby-1.4.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/org.springframework.context.support-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/jmxremote.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.bsh-2.0.0.b4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.org.codehaus.groovy-1.6.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/jmxri.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.org.quartz-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.edu.emory.mathcs.backport-3.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/com.springsource.commonj-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/jamon-2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/misc/misc/jmxremote_optional.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

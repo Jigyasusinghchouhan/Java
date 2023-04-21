@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="spcorejars">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/jmxtools-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/org.springframework.asm-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/com.springsource.org.apache.commons.logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/org.springframework.context-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/org.springframework.beans-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/com.springsource.org.apache.log4j-1.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/org.springframework.core-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/spcorejars/spcorejars/org.springframework.expression-3.0.1.RELEASE-A.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

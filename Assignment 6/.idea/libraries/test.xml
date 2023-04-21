@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="test">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/wstx-asl-3.2.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/org.springframework.test-3.0.1.RELEASE-A.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/com.springsource.org.testng-5.10.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/xmlunit-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/com.springsource.org.apache.taglibs.standard-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/com.springsource.org.junit-4.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/easymock.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/test/test/com.springsource.javax.inject-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

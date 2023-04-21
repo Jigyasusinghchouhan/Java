@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="com.springsource.com.ibatis-2.3.4.726">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/ibatis/ibatis/com.springsource.com.ibatis-2.3.4.726.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

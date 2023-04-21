@@ -1,0 +1,16 @@
+!SESSION 2023-03-29 10:59:31.193 -----------------------------------------------
+eclipse.buildId=4.26.0.20221201-1200
+java.version=19.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-29 10:59:33.075
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-03-29 10:59:51.411
+!MESSAGE Logback config file: F:\MCA\exam\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.1.0.20221015-0744.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-03-29 10:59:54.208
+!MESSAGE K

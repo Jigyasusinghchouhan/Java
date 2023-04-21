@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Assignment 5.iml" filepath="$PROJECT_DIR$/.idea/Assignment 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q1/Q1.iml" filepath="$PROJECT_DIR$/Q1/Q1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q2/Q2.iml" filepath="$PROJECT_DIR$/Q2/Q2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q3/Q3.iml" filepath="$PROJECT_DIR$/Q3/Q3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q4/Q4.iml" filepath="$PROJECT_DIR$/Q4/Q4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q5/Q5.iml" filepath="$PROJECT_DIR$/Q5/Q5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Q6/Q6.iml" filepath="$PROJECT_DIR$/Q6/Q6.iml" />
+    </modules>
+  </component>
+</project>

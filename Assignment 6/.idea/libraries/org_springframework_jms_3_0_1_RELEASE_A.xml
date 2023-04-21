@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="org.springframework.jms-3.0.1.RELEASE-A">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springjars/springjars/j2ee/j2ee/org.springframework.jms-3.0.1.RELEASE-A.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
